@@ -1,0 +1,323 @@
+ Plot()
+ {
+  Curve("SHCal20","shcal20.14c");
+  KDE_Model("Direct66_Good13_79")
+  {
+   R_Date	("	Pilanesberg UP95 Pta-8029	", 	160	,	40	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Wellington Estate A2235 Pta-4982	", 	160	,	50	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Makgope UP48 Pta-7380	", 	170	,	50	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Willow Glen UP72 Pta-7369	", 	180	,	45	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Buispoort NMB1571 Pta-5229	", 	200	,	45	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Makgope UP49 Pta-7379	", 	200	,	45	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Kimberley MMK288 Pta-3094	", 	210	,	45	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Eggo Cave UP17a Ua-63922	", 	237	,	27	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Hoekfontein HKF7 Pta-8858	", 	240	,	50	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Cyferkuil UP80 Pta-7612	", 	250	,	50	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Krugerskraal A312 Pta-4978	", 	260	,	45	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Modimolle UP92 Pta-7795	", 	280	,	35	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Welgegund UP12 Pta-548	", 	280	,	50	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Pilanesberg UP143 Pta-8944	", 	300	,	35	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Rooiberg UP7 Pta-5894	", 	300	,	60	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Champagne Castle KZ2009/023 Beta-398218	", 	310	,	30	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Thulamela UP43 Pta-7276	", 	340	,	40	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Tinley Manor A609*a Pta-6126	", 	350	,	45	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Welgegund NAS25 Pta-1316	", 	350	,	40	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Hole-in-the-wall UP13 Ua-61832	", 	354	,	35	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Kaybar's Cave A294 Ua-64896	", 	354	,	29	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Yellowtree Shelter A299 Ua-64897	", 	356	,	29	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Mfongosi KZ1925/036 Beta-398220	", 	360	,	30	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Paardekraal A2802 Oxa-V-2161-55	", 	370	,	50	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Thabazimbi UP132 Pta-7848	", 	370	,	70	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Magozastad UNISA Pta-7276	", 	375	,	20	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Skukuza Rock Shelter UP29 Ua-61833	", 	377	,	35	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Eersteling A410 Pta-5224	", 	380	,	30	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Hoekfontein HKF9 Pta-8864	", 	390	,	50	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Wellington Estate A2233 Pta-4981	", 	400	,	40	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Kaybar's Cave A295 IT-C-1768	", 	410	,	44	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Plovers Lake PV12780 Beta-476776	", 	420	,	30	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Wellington Estate A1104 Pta-4989	", 	420	,	45	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Newcastle KZ2007/006 Beta-398221	", 	430	,	30	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Makapanstad UP Pta-9799	", 	450	,	50	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Pilanesberg UP139 Pta-08659	", 	460	,	50	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Schuinsdraai UP47 Ua-61969	", 	462	,	33	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Eland Cave KZ1925/037 Beta-398219	", 	480	,	30	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	King's View KZ2009/011 Pta-5798	", 	480	,	50	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Plovers Lake PV14000A/B Beta-476777	", 	480	,	30	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Schuinsdraai UP32 Ua-61828	", 	510	,	33	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Thulamela UP44 Pta-7243	", 	520	,	40	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Tinley Manor A609*b Ua-64898	", 	569	,	29	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Nwanetsi UP130 Pta-7937	", 	580	,	45	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Ellerton Mine A414 Pta-4973 or 4937?	", 	600	,	50	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Mason's Shelter A298 IT-C-1769	", 	610	,	44	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Pilanesberg UP147 Pta-9304	", 	620	,	40	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Pilanesberg UP152 Pta-9475	", 	670	,	50	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Kgopolwe UCT432 Pta-566	", 	680	,	45	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Robinson's Shelter A302 Ua-64889	", 	688	,	29	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Mapungubwe A622a (M3) Pta-3480	", 	770	,	40	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Fynnlands KZ2009/006 Pta-5789	", 	780	,	50	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Kon-Stayt UP77 Pta-4363	", 	820	,	50	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Clarens A4237/4231 Ua-61831	", 	844	,	35	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Hamilton UP138 Pta-016	", 	850	,	35	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Mapungubwe A621a (M2) Pta-3489	", 	850	,	40	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Pilanesberg UP51 Pta-7331	", 	890	,	50	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Map 26; UP145 Pta-8376	", 	900	,	20	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Heilbron A233 Pta-5218	", 	1000	,	60	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Zandspruit HLB3 Ua-59966	", 	1121	,	29	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Zandspruit HLB2 Ua-59965	", 	1159	,	33	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Zandspruit HLB4 Ua-59967	", 	1172	,	29	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Zandspruit HLB1 Ua-59964	", 	1253	,	32	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Happyrest UP1 Pta-2612	", 	1310	,	50	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Murray's Shelter A301 Ua-64888	", 	1331	,	31	)
+   {
+    color="	blue	";
+   };
+   R_Date	("	Happyrest UP2 Ua-63920	", 	1444	,	32	)
+   {
+    color="	blue	";
+   };
+   R_Simulate	("	Willow Glen UP71 Sim	", 	1800	,	85	)
+   {
+    color="	green	";
+   };
+   R_Simulate	("	Cyferkuil UP94 Sim 	", 	1725	,	90	)
+   {
+    color="	green	";
+   };
+   R_Simulate	("	Thabazimbi UP131 Sim	", 	1565	,	75	)
+   {
+    color="	green	";
+   };
+   R_Simulate	("	Schuinsdraai UP45 Sim1	", 	1450	,	30	)
+   {
+    color="	green	";
+   };
+   R_Simulate	("	Schuinsdraai UP46 Sim2	", 	1450	,	30	)
+   {
+    color="	green	";
+   };
+   R_Simulate	("	Pilanesberg UP148 Sim1	", 	1355	,	35	)
+   {
+    color="	green	";
+   };
+   R_Simulate	("	Pilanesberg UP149 Sim2	", 	1355	,	35	)
+   {
+    color="	green	";
+   };
+   R_Simulate	("	Pilanesberg UP150 Sim3	", 	1355	,	35	)
+   {
+    color="	green	";
+   };
+   R_Simulate	("	Pilanesberg UP151 Sim4	", 	1355	,	35	)
+   {
+    color="	green	";
+   };
+   R_Simulate	("	Pilanesberg UP153 Sim5	", 	1355	,	35	)
+   {
+    color="	green	";
+   };
+   R_Simulate	("	Pilanesberg UP154 Sim6	", 	1355	,	35	)
+   {
+    color="	green	";
+   };
+   R_Simulate	("	Pilanesberg UP155 Sim7	", 	1355	,	35	)
+   {
+    color="	green	";
+   };
+   R_Simulate	("	Kon-Stayt UP78 Sim 	", 	1245	,	40	)
+   {
+    color="	green	";
+   };
+  };
+ };

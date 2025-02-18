@@ -1,0 +1,565 @@
+ Plot()
+ {
+  Curve("SHCal20","shcal20.14c");
+  KDE_Model("NorthWest_93_v2")
+  {
+   R_Date	("	Kimberley MMK288 Pta-3094	", 	210	,	45	)
+   {
+    color="	red	";
+    latitude=	-28.74;
+    longitude=	24.757558;
+   };
+   R_Date	("	Eersteling A410 Pta-5224	", 	380	,	30	)
+   {
+    color="	red	";
+    latitude=	-24.12;
+    longitude=	29.328316;
+   };
+   R_Date	("	Schuinsdraai UP47 Ua-61969	", 	462	,	33	)
+   {
+    color="	red	";
+    latitude=	-24.82;
+    longitude=	29.379238;
+   };
+   R_Date	("	Schuinsdraai UP32 Ua-61828	", 	510	,	33	)
+   {
+    color="	red	";
+    latitude=	-24.82;
+    longitude=	29.379238;
+   };
+   R_Simulate	("	Schuinsdraai UP45 Sim1	", 	1450	,	30	)
+   {
+    color="	red	";
+    latitude=	-24.82;
+    longitude=	29.379238;
+   };
+   R_Simulate	("	Schuinsdraai UP46 Sim2	", 	1450	,	30	)
+   {
+    color="	red	";
+    latitude=	-24.82;
+    longitude=	29.379238;
+   };
+   R_Simulate	("	Eersteling A410b Sim1	", 	1550	,	50	)
+   {
+    color="	red	";
+    latitude=	-24.12;
+    longitude=	29.328316;
+   };
+   R_Simulate	("	Eersteling A410c Sim2	", 	1550	,	50	)
+   {
+    color="	red	";
+    latitude=	-24.12;
+    longitude=	29.328316;
+   };
+   R_Simulate	("	Eersteling A410d Sim3	", 	1550	,	50	)
+   {
+    color="	red	";
+    latitude=	-24.12;
+    longitude=	29.328316;
+   };
+   R_Simulate	("	Eersteling A410e Sim4	", 	1550	,	50	)
+   {
+    color="	red	";
+    latitude=	-24.12;
+    longitude=	29.328316;
+   };
+   R_Date	("	Pilanesberg UP95 Pta-8029	", 	160	,	40	)
+   {
+    color="	red	";
+    latitude=	-25.19;
+    longitude=	27.143382;
+   };
+   R_Date	("	Wellington Estate A2235 Pta-4982	", 	160	,	50	)
+   {
+    color="	red	";
+    latitude=	-24.90;
+    longitude=	28.483208;
+   };
+   R_Date	("	Makgope UP48 Pta-7380	", 	170	,	50	)
+   {
+    color="	red	";
+    latitude=	-25.54;
+    longitude=	27.441601;
+   };
+   R_Date	("	Willow Glen UP72 Pta-7369	", 	180	,	45	)
+   {
+    color="	red	";
+    latitude=	-25.80;
+    longitude=	28.295279;
+   };
+   R_Date	("	Makgope UP49 Pta-7379	", 	200	,	45	)
+   {
+    color="	red	";
+    latitude=	-25.54;
+    longitude=	27.441601;
+   };
+   R_Date	("	Buispoort NMB1571 Pta-5229	", 	200	,	45	)
+   {
+    color="	red	";
+    latitude=	-25.28;
+    longitude=	25.95;
+   };
+   R_Date	("	Welgegund UP12 Pta-548	", 	240	,	50	)
+   {
+    color="	red	";
+    latitude=	-25.78;
+    longitude=	27.897437;
+   };
+   R_Date	("	Hoekfontein HKF7 Pta-8858	", 	240	,	50	)
+   {
+    color="	red	";
+    latitude=	-25.60;
+    longitude=	27.947511;
+   };
+   R_Date	("	Cyferkuil UP80 Pta-7612	", 	250	,	50	)
+   {
+    color="	red	";
+    latitude=	-25.07;
+    longitude=	28.242532;
+   };
+   R_Date	("	Krugerskraal A312 Pta-4978	", 	260	,	45	)
+   {
+    color="	red	";
+    latitude=	-27.32;
+    longitude=	28.005316;
+   };
+   R_Date	("	Modimolle UP92 Pta-7795	", 	280	,	35	)
+   {
+    color="	red	";
+    latitude=	-24.70;
+    longitude=	28.40215;
+   };
+   R_Date	("	Pilanesberg UP143 Pta-8944	", 	300	,	35	)
+   {
+    color="	red	";
+    latitude=	-25.19;
+    longitude=	27.143382;
+   };
+   R_Date	("	Rooiberg UP7 Pta-5894	", 	300	,	60	)
+   {
+    color="	red	";
+    latitude=	-24.68;
+    longitude=	27.744762;
+   };
+   R_Date	("	Welgegund NAS25 Pta-1316	", 	350	,	40	)
+   {
+    color="	red	";
+    latitude=	-25.78;
+    longitude=	27.897437;
+   };
+   R_Date	("	Paardekraal A2802 Oxa-V-2161-55	", 	370	,	50	)
+   {
+    color="	red	";
+    latitude=	-25.62;
+    longitude=	27.30046;
+   };
+   R_Date	("	Thabazimbi UP132 Pta-7848	", 	370	,	70	)
+   {
+    color="	red	";
+    latitude=	-24.59;
+    longitude=	27.40175;
+   };
+   R_Date	("	Magozastad UNISA Pta-7276	", 	375	,	20	)
+   {
+    color="	red	";
+    latitude=	-25.55;
+    longitude=	26.281692;
+   };
+   R_Date	("	Hoekfontein HKF9 Pta-8864	", 	390	,	50	)
+   {
+    color="	red	";
+    latitude=	-25.60;
+    longitude=	27.947511;
+   };
+   R_Date	("	Wellington Estate A2233 Pta-4981	", 	400	,	40	)
+   {
+    color="	red	";
+    latitude=	-24.90;
+    longitude=	28.483208;
+   };
+   R_Date	("	Plovers Lake PV12780 Beta-476776	", 	420	,	30	)
+   {
+    color="	red	";
+    latitude=	-25.98;
+    longitude=	27.778232;
+   };
+   R_Date	("	Wellington Estate A1104 Pta-4989	", 	420	,	45	)
+   {
+    color="	red	";
+    latitude=	-24.90;
+    longitude=	28.483208;
+   };
+   R_Date	("	Makapanstad UP Pta-9799	", 	450	,	50	)
+   {
+    color="	red	";
+    latitude=	-25.24;
+    longitude=	28.135815;
+   };
+   R_Date	("	Pilanesberg UP139 Pta-08659	", 	460	,	50	)
+   {
+    color="	red	";
+    latitude=	-25.19;
+    longitude=	27.143382;
+   };
+   R_Date	("	Plovers Lake PV14000A/B Beta-476777	", 	480	,	30	)
+   {
+    color="	red	";
+    latitude=	-25.98;
+    longitude=	27.778232;
+   };
+   R_Date	("	Pilanesberg UP147 Pta-9304	", 	620	,	40	)
+   {
+    color="	red	";
+    latitude=	-25.22;
+    longitude=	27.195883;
+   };
+   R_Date	("	Pilanesberg UP152 Pta-9475	", 	670	,	50	)
+   {
+    color="	red	";
+    latitude=	-25.22;
+    longitude=	27.195883;
+   };
+   R_Date	("	Pilanesberg UP51 Pta-7331	", 	890	,	50	)
+   {
+    color="	red	";
+    latitude=	-25.27;
+    longitude=	27.120969;
+   };
+   R_Date	("	Heilbron A233 Pta-5218	", 	1000	,	60	)
+   {
+    color="	red	";
+    latitude=	-27.29;
+    longitude=	27.984967;
+   };
+   R_Simulate	("	Willow Glen UP71 Sim	", 	1800	,	85	)
+   {
+    color="	red	";
+    latitude=	-25.80;
+    longitude=	28.295279;
+   };
+   R_Simulate	("	Cyferkuil UP94 Sim 	", 	1725	,	90	)
+   {
+    color="	red	";
+    latitude=	-25.07;
+    longitude=	28.242532;
+   };
+   R_Simulate	("	Thabazimbi UP131 Sim	", 	1565	,	75	)
+   {
+    color="	red	";
+    latitude=	-24.59;
+    longitude=	27.40175;
+   };
+   R_Simulate	("	Pilanesberg UP148 Sim1	", 	1355	,	35	)
+   {
+    color="	red	";
+    latitude=	-25.22;
+    longitude=	27.195883;
+   };
+   R_Simulate	("	Pilanesberg UP149 Sim2	", 	1355	,	35	)
+   {
+    color="	red	";
+    latitude=	-25.22;
+    longitude=	27.195883;
+   };
+   R_Simulate	("	Pilanesberg UP150 Sim3	", 	1355	,	35	)
+   {
+    color="	red	";
+    latitude=	-25.22;
+    longitude=	27.195883;
+   };
+   R_Simulate	("	Pilanesberg UP151 Sim4	", 	1355	,	35	)
+   {
+    color="	red	";
+    latitude=	-25.22;
+    longitude=	27.195883;
+   };
+   R_Simulate	("	Pilanesberg UP153 Sim5	", 	1355	,	35	)
+   {
+    color="	red	";
+    latitude=	-25.22;
+    longitude=	27.195883;
+   };
+   R_Simulate	("	Pilanesberg UP154 Sim6	", 	1355	,	35	)
+   {
+    color="	red	";
+    latitude=	-25.22;
+    longitude=	27.195883;
+   };
+   R_Simulate	("	Pilanesberg UP155 Sim7	", 	1355	,	35	)
+   {
+    color="	red	";
+    latitude=	-25.22;
+    longitude=	27.195883;
+   };
+   R_Simulate	("	Buispoort NMB1590 Sim1	", 	1785	,	80	)
+   {
+    color="	red	";
+    latitude=	-25.28;
+    longitude=	25.95;
+   };
+   R_Simulate	("	Buispoort NMB1591 Sim2	", 	1785	,	80	)
+   {
+    color="	red	";
+    latitude=	-25.28;
+    longitude=	25.95;
+   };
+   R_Simulate	("	Buispoort NMB1592 Sim3	", 	1785	,	80	)
+   {
+    color="	red	";
+    latitude=	-25.28;
+    longitude=	25.95;
+   };
+   R_Simulate	("	Buispoort NMB1593 Sim4	", 	1785	,	80	)
+   {
+    color="	red	";
+    latitude=	-25.28;
+    longitude=	25.95;
+   };
+   R_Simulate	("	Broederstroom A4143 Sim1	", 	600	,	30	)
+   {
+    color="	red	";
+    latitude=	-25.77;
+    longitude=	27.835429;
+   };
+   R_Simulate	("	Broederstroom A4144a Sim2	", 	600	,	30	)
+   {
+    color="	red	";
+    latitude=	-25.77;
+    longitude=	27.835429;
+   };
+   R_Simulate	("	Broederstroom A4144b Sim3	", 	600	,	30	)
+   {
+    color="	red	";
+    latitude=	-25.77;
+    longitude=	27.835429;
+   };
+   R_Simulate	("	Broederstroom burial 10 Sim4	", 	600	,	30	)
+   {
+    color="	red	";
+    latitude=	-25.77;
+    longitude=	27.835429;
+   };
+   R_Simulate	("	Broederstroom burial 2 Sim5	", 	600	,	30	)
+   {
+    color="	red	";
+    latitude=	-25.77;
+    longitude=	27.835429;
+   };
+   R_Simulate	("	Broederstroom burial 7 Sim6	", 	600	,	30	)
+   {
+    color="	red	";
+    latitude=	-25.77;
+    longitude=	27.835429;
+   };
+   R_Simulate	("	Broederstroom burial 8 Sim7	", 	600	,	30	)
+   {
+    color="	red	";
+    latitude=	-25.77;
+    longitude=	27.835429;
+   };
+   R_Simulate	("	Broederstroom burial 9 Sim8	", 	600	,	30	)
+   {
+    color="	red	";
+    latitude=	-25.77;
+    longitude=	27.835429;
+   };
+   R_Simulate	("	Broederstroom WA30 Sim9	", 	600	,	30	)
+   {
+    color="	red	";
+    latitude=	-25.77;
+    longitude=	27.835429;
+   };
+   R_Simulate	("	Broederstroom WA31b Sim10	", 	600	,	30	)
+   {
+    color="	red	";
+    latitude=	-25.77;
+    longitude=	27.835429;
+   };
+   R_Simulate	("	Lindley UCT326 Sim 1	", 	1830	,	80	)
+   {
+    color="	red	";
+    latitude=	-27.91;
+    longitude=	27.938651;
+   };
+   R_Simulate	("	Lindley UCT327 Sim 2	", 	1830	,	80	)
+   {
+    color="	red	";
+    latitude=	-27.91;
+    longitude=	27.938651;
+   };
+   R_Simulate	("	Lindley UCT328 Sim 3	", 	1830	,	80	)
+   {
+    color="	red	";
+    latitude=	-27.91;
+    longitude=	27.938651;
+   };
+   R_Simulate	("	Buispoort NMB1594 Sim5	", 	1785	,	80	)
+   {
+    color="	red	";
+    latitude=	-25.28;
+    longitude=	25.95;
+   };
+   R_Simulate	("	Oliphantspoort A2852 Sim 1	", 	1690	,	125	)
+   {
+    color="	red	";
+    latitude=	-25.87;
+    longitude=	27.33;
+   };
+   R_Simulate	("	Oliphantspoort A2853/2854 Sim 2	", 	1690	,	125	)
+   {
+    color="	red	";
+    latitude=	-25.87;
+    longitude=	27.33;
+   };
+   R_Simulate	("	Oliphantspoort A2857 Sim 3	", 	1690	,	125	)
+   {
+    color="	red	";
+    latitude=	-25.87;
+    longitude=	27.33;
+   };
+   R_Simulate	("	Oliphantspoort A4221 Sim 4	", 	1690	,	125	)
+   {
+    color="	red	";
+    latitude=	-25.87;
+    longitude=	27.33;
+   };
+   R_Simulate	("	Oliphantspoort Burial 4 Sim 5	", 	1690	,	125	)
+   {
+    color="	red	";
+    latitude=	-25.87;
+    longitude=	27.33;
+   };
+   R_Simulate	("	Rooikrans A4226 Sim 1	", 	1665	,	100	)
+   {
+    color="	red	";
+    latitude=	-24.80;
+    longitude=	27.562127;
+   };
+   R_Simulate	("	Rooikrans A4227 Sim 2	", 	1665	,	100	)
+   {
+    color="	red	";
+    latitude=	-24.80;
+    longitude=	27.562127;
+   };
+   R_Simulate	("	Rooikrans A4230 Sim 3	", 	1665	,	100	)
+   {
+    color="	red	";
+    latitude=	-24.80;
+    longitude=	27.562127;
+   };
+   R_Simulate	("	Wellington Estate A1103 Sim1	", 	1625	,	130	)
+   {
+    color="	red	";
+    latitude=	-24.90;
+    longitude=	28.483208;
+   };
+   R_Simulate	("	Wellington Estate A1836 Sim2	", 	1625	,	130	)
+   {
+    color="	red	";
+    latitude=	-24.90;
+    longitude=	28.483208;
+   };
+   R_Simulate	("	Wellington Estate A1837 Sim3	", 	1625	,	130	)
+   {
+    color="	red	";
+    latitude=	-24.90;
+    longitude=	28.483208;
+   };
+   R_Simulate	("	Wellington Estate A1838 Sim4	", 	1625	,	130	)
+   {
+    color="	red	";
+    latitude=	-24.90;
+    longitude=	28.483208;
+   };
+   R_Simulate	("	Wellington Estate A2229 Sim5	", 	1625	,	130	)
+   {
+    color="	red	";
+    latitude=	-24.90;
+    longitude=	28.483208;
+   };
+   R_Simulate	("	Wellington Estate A2230 Sim6	", 	1625	,	130	)
+   {
+    color="	red	";
+    latitude=	-24.90;
+    longitude=	28.483208;
+   };
+   R_Simulate	("	Wellington Estate A2231 Sim7	", 	1625	,	130	)
+   {
+    color="	red	";
+    latitude=	-24.90;
+    longitude=	28.483208;
+   };
+   R_Simulate	("	Wellington Estate A2232 Sim8	", 	1625	,	130	)
+   {
+    color="	red	";
+    latitude=	-24.90;
+    longitude=	28.483208;
+   };
+   R_Simulate	("	Wellington Estate A2234 Sim9	", 	1625	,	130	)
+   {
+    color="	red	";
+    latitude=	-24.90;
+    longitude=	28.483208;
+   };
+   R_Simulate	("	Wellington Estate A2236 Sim10	", 	1625	,	130	)
+   {
+    color="	red	";
+    latitude=	-24.90;
+    longitude=	28.483208;
+   };
+   R_Simulate	("	Wellington Estate A2238 Sim11	", 	1625	,	130	)
+   {
+    color="	red	";
+    latitude=	-24.90;
+    longitude=	28.483208;
+   };
+   R_Simulate	("	Wellington Estate A2239 Sim12	", 	1625	,	130	)
+   {
+    color="	red	";
+    latitude=	-24.90;
+    longitude=	28.483208;
+   };
+   R_Simulate	("	Wellington Estate A2240 Sim13	", 	1625	,	130	)
+   {
+    color="	red	";
+    latitude=	-24.90;
+    longitude=	28.483208;
+   };
+   R_Simulate	("	Wellington Estate A2241 Sim14	", 	1625	,	130	)
+   {
+    color="	red	";
+    latitude=	-24.90;
+    longitude=	28.483208;
+   };
+   R_Simulate	("	Wellington Estate A2242 Sim15	", 	1625	,	130	)
+   {
+    color="	red	";
+    latitude=	-24.90;
+    longitude=	28.483208;
+   };
+   R_Simulate	("	Welgegund NAS26 Sim	", 	1600	,	80	)
+   {
+    color="	red	";
+    latitude=	-25.78;
+    longitude=	27.897437;
+   };
+   R_Simulate	("	Diamant UNISA1 Sim 1	", 	710	,	50	)
+   {
+    color="	red	";
+    latitude=	-24.12;
+    longitude=	27.551588;
+   };
+   R_Simulate	("	Diamant UNISA2 Sim 2	", 	710	,	50	)
+   {
+    color="	red	";
+    latitude=	-24.12;
+    longitude=	27.551588;
+   };
+   R_Simulate	("	Diamant UNISA3 Sim 3	", 	710	,	50	)
+   {
+    color="	red	";
+    latitude=	-24.12;
+    longitude=	27.551588;
+   };
+  };
+ };

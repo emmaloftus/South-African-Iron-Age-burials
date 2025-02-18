@@ -1,0 +1,253 @@
+ Plot()
+ {
+  Curve("SHCal20","shcal20.14c");
+  KDE_Model("KZN_41")
+  {
+   R_Date	("	Kimberley MMK288 Pta-3094	", 	210	,	45	)
+   {
+    color="	blue	";
+    latitude=	-28.74;
+    longitude=	24.757558;
+   };
+   R_Date	("	Champagne Castle KZ2009/023 Beta-398218	", 	310	,	30	)
+   {
+    color="	blue	";
+    latitude=	-29.07;
+    longitude=	29.376616;
+   };
+   R_Date	("	Tinley Manor A609*a Pta-6126	", 	350	,	45	)
+   {
+    color="	blue	";
+    latitude=	-29.45;
+    longitude=	31.285503;
+   };
+   R_Date	("	Kaybar's Cave A294 Ua-64896	", 	354	,	29	)
+   {
+    color="	blue	";
+    latitude=	-29.05;
+    longitude=	29.415215;
+   };
+   R_Date	("	Hole-in-the-wall UP13 Ua-61832	", 	354	,	35	)
+   {
+    color="	blue	";
+    latitude=	-32.04;
+    longitude=	29.106042;
+   };
+   R_Date	("	Yellowtree Shelter A299 Ua-64897	", 	356	,	29	)
+   {
+    color="	blue	";
+    latitude=	-29.00;
+    longitude=	29.436889;
+   };
+   R_Date	("	Mfongosi KZ1925/036 Beta-398220	", 	360	,	30	)
+   {
+    color="	blue	";
+    latitude=	-28.71;
+    longitude=	30.835141;
+   };
+   R_Date	("	Kaybar's Cave A295 IT-C-1768	", 	410	,	44	)
+   {
+    color="	blue	";
+    latitude=	-29.05;
+    longitude=	29.415215;
+   };
+   R_Date	("	Newcastle KZ2007/006 Beta-398221	", 	430	,	30	)
+   {
+    color="	blue	";
+    latitude=	-28.57;
+    longitude=	29.075104;
+   };
+   R_Date	("	Eland Cave KZ1925/037 Beta-398219	", 	480	,	30	)
+   {
+    color="	blue	";
+    latitude=	-29.01;
+    longitude=	29.35;
+   };
+   R_Date	("	King's View KZ2009/011 Pta-5798	", 	480	,	50	)
+   {
+    color="	blue	";
+    latitude=	-29.80;
+    longitude=	31.04;
+   };
+   R_Date	("	Tinley Manor A609*b Ua-64898	", 	569	,	29	)
+   {
+    color="	blue	";
+    latitude=	-29.45;
+    longitude=	31.285503;
+   };
+   R_Date	("	Mason's Shelter A298 IT-C-1769	", 	610	,	44	)
+   {
+    color="	blue	";
+    latitude=	-29.01;
+    longitude=	29.415165;
+   };
+   R_Date	("	Robinson's Shelter A302 Ua-64889	", 	688	,	29	)
+   {
+    color="	blue	";
+    latitude=	-29.00;
+    longitude=	29.432701;
+   };
+   R_Date	("	Fynnlands KZ2009/006 Pta-5789	", 	780	,	50	)
+   {
+    color="	blue	";
+    latitude=	-29.90;
+    longitude=	31.024998;
+   };
+   R_Date	("	Clarens A4237/4231 Ua-61831	", 	844	,	35	)
+   {
+    color="	blue	";
+    latitude=	-28.58;
+    longitude=	28.427778;
+   };
+   R_Date	("	Murray's Shelter A301 Ua-64888	", 	1331	,	31	)
+   {
+    color="	blue	";
+    latitude=	-29.01;
+    longitude=	29.421173;
+   };
+   R_Simulate	("	Kaybar's Cave A296 Sim	", 	1550	,	50	)
+   {
+    color="	blue	";
+    latitude=	-29.05;
+    longitude=	29.415215;
+   };
+   R_Simulate	("	Clarens A4238 Sim1	", 	1235	,	30	)
+   {
+    color="	blue	";
+    latitude=	-28.58;
+    longitude=	28.427778;
+   };
+   R_Simulate	("	Clarens A4239 Sim2	", 	1235	,	30	)
+   {
+    color="	blue	";
+    latitude=	-28.58;
+    longitude=	28.427778;
+   };
+   R_Simulate	("	Clarens A4240 Sim3	", 	1235	,	30	)
+   {
+    color="	blue	";
+    latitude=	-28.58;
+    longitude=	28.427778;
+   };
+   R_Simulate	("	Clarens A4241 Sim4	", 	1235	,	30	)
+   {
+    color="	blue	";
+    latitude=	-28.58;
+    longitude=	28.427778;
+   };
+   R_Simulate	("	Clarens A4242 Sim5	", 	1235	,	30	)
+   {
+    color="	blue	";
+    latitude=	-28.58;
+    longitude=	28.427778;
+   };
+   R_Simulate	("	Clarens A4243 Sim6	", 	1235	,	30	)
+   {
+    color="	blue	";
+    latitude=	-28.58;
+    longitude=	28.427778;
+   };
+   R_Simulate	("	Clarens A4244 Sim7	", 	1235	,	30	)
+   {
+    color="	blue	";
+    latitude=	-28.58;
+    longitude=	28.427778;
+   };
+   R_Simulate	("	Clarens A4245 Sim8	", 	1235	,	30	)
+   {
+    color="	blue	";
+    latitude=	-28.58;
+    longitude=	28.427778;
+   };
+   R_Simulate	("	Clarens A4246 Sim9	", 	1235	,	30	)
+   {
+    color="	blue	";
+    latitude=	-28.58;
+    longitude=	28.427778;
+   };
+   R_Simulate	("	Clarens A4326 Sim10	", 	1235	,	30	)
+   {
+    color="	blue	";
+    latitude=	-28.58;
+    longitude=	28.427778;
+   };
+   R_Simulate	("	Nanda KZ1986/001*a Sim 1	", 	805	,	75	)
+   {
+    color="	blue	";
+    latitude=	-29.67;
+    longitude=	30.855833;
+   };
+   R_Simulate	("	Nanda KZ1986/001*b Sim 1	", 	805	,	75	)
+   {
+    color="	blue	";
+    latitude=	-29.67;
+    longitude=	30.855833;
+   };
+   R_Simulate	("	Nanda KZ1986/001*c Sim 2	", 	805	,	75	)
+   {
+    color="	blue	";
+    latitude=	-29.67;
+    longitude=	30.855833;
+   };
+   R_Simulate	("	Nanda KZ1986/001*d Sim 3	", 	805	,	75	)
+   {
+    color="	blue	";
+    latitude=	-29.67;
+    longitude=	30.855833;
+   };
+   R_Simulate	("	Nanda KZ1986/001*e Sim 4	", 	805	,	75	)
+   {
+    color="	blue	";
+    latitude=	-29.67;
+    longitude=	30.855833;
+   };
+   R_Simulate	("	Magogo KZ1980/001 Sim 	", 	735	,	55	)
+   {
+    color="	blue	";
+    latitude=	-28.98;
+    longitude=	30.395621;
+   };
+   R_Simulate	("	KwaGandaganda KZ1986/002*b Sim 2	", 	730	,	65	)
+   {
+    color="	blue	";
+    latitude=	-28.76;
+    longitude=	30.145962;
+   };
+   R_Simulate	("	Msuluzi KZ1977/030 '30' Sim 1	", 	730	,	50	)
+   {
+    color="	blue	";
+    latitude=	-28.76;
+    longitude=	30.145962;
+   };
+   R_Simulate	("	Msuluzi KZ1977/030 'D6' Sim 2	", 	730	,	50	)
+   {
+    color="	blue	";
+    latitude=	-29.68;
+    longitude=	30.836208;
+   };
+   R_Simulate	("	Mhlopeni KZ1980/002 Burial 1 (lower) Sim 1	", 	695	,	55	)
+   {
+    color="	blue	";
+    latitude=	-29.01;
+    longitude=	30.41232;
+   };
+   R_Simulate	("	Mhlopeni KZ1980/002 Burial 1 (upper) Sim 2	", 	695	,	55	)
+   {
+    color="	blue	";
+    latitude=	-29.01;
+    longitude=	30.41232;
+   };
+   R_Simulate	("	Mhlopeni KZ1980/002 Burial 2 Sim 3	", 	695	,	55	)
+   {
+    color="	blue	";
+    latitude=	-29.01;
+    longitude=	30.41232;
+   };
+   R_Simulate	("	KwaGandaganda KZ1986/002*a Sim 1	", 	730	,	65	)
+   {
+    color="	blue	";
+    latitude=	-29.68;
+    longitude=	30.836208;
+   };
+  };
+ };

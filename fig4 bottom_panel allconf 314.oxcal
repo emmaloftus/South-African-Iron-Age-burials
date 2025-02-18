@@ -1,0 +1,1577 @@
+ Plot()
+ {
+  Curve("SHCal20","shcal20.14c");
+  KDE_Model("Direct66_Good13_Med156_Poor79_total314")
+  {
+   R_Date	("	Champagne Castle KZ2009/023 Beta-398218	", 	310	,	30	)
+   {
+    latitude=	-29.07;
+    longitude=	29.376616;
+   };
+   R_Date	("	Tinley Manor A609*a Pta-6126	", 	350	,	45	)
+   {
+    latitude=	-29.45;
+    longitude=	31.285503;
+   };
+   R_Date	("	Hole-in-the-wall UP13 Ua-61832	", 	354	,	35	)
+   {
+    latitude=	-32.04;
+    longitude=	29.106042;
+   };
+   R_Date	("	Kaybar's Cave A294 Ua-64896	", 	354	,	29	)
+   {
+    latitude=	-29.05;
+    longitude=	29.415215;
+   };
+   R_Date	("	Yellowtree Shelter A299 Ua-64897	", 	356	,	29	)
+   {
+    latitude=	-29.00;
+    longitude=	29.436889;
+   };
+   R_Date	("	Mfongosi KZ1925/036 Beta-398220	", 	360	,	30	)
+   {
+    latitude=	-28.71;
+    longitude=	30.835141;
+   };
+   R_Date	("	Kaybar's Cave A295 IT-C-1768	", 	410	,	44	)
+   {
+    latitude=	-29.05;
+    longitude=	29.415215;
+   };
+   R_Date	("	Newcastle KZ2007/006 Beta-398221	", 	430	,	30	)
+   {
+    latitude=	-28.57;
+    longitude=	29.075104;
+   };
+   R_Date	("	Eland Cave KZ1925/037 Beta-398219	", 	480	,	30	)
+   {
+    latitude=	-29.01;
+    longitude=	29.35;
+   };
+   R_Date	("	King's View KZ2009/011 Pta-5798	", 	480	,	50	)
+   {
+    latitude=	-29.80;
+    longitude=	31.04;
+   };
+   R_Date	("	Tinley Manor A609*b Ua-64898	", 	569	,	29	)
+   {
+    latitude=	-29.45;
+    longitude=	31.285503;
+   };
+   R_Date	("	Mason's Shelter A298 IT-C-1769	", 	610	,	44	)
+   {
+    latitude=	-29.01;
+    longitude=	29.415165;
+   };
+   R_Date	("	Robinson's Shelter A302 Ua-64889	", 	688	,	29	)
+   {
+    latitude=	-29.00;
+    longitude=	29.432701;
+   };
+   R_Date	("	Fynnlands KZ2009/006 Pta-5789	", 	780	,	50	)
+   {
+    latitude=	-29.90;
+    longitude=	31.024998;
+   };
+   R_Date	("	Clarens A4237/4231 Ua-61831	", 	844	,	35	)
+   {
+    latitude=	-28.58;
+    longitude=	28.427778;
+   };
+   R_Date	("	Murray's Shelter A301 Ua-64888	", 	1331	,	31	)
+   {
+    latitude=	-29.01;
+    longitude=	29.421173;
+   };
+   R_Simulate	("	Mhlopeni KZ1980/002 Burial 1 (lower) Sim 1	", 	695	,	55	)
+   {
+    latitude=	-29.01;
+    longitude=	30.41232;
+   };
+   R_Simulate	("	Mhlopeni KZ1980/002 Burial 1 (upper) Sim 2	", 	695	,	55	)
+   {
+    latitude=	-29.01;
+    longitude=	30.41232;
+   };
+   R_Simulate	("	Mhlopeni KZ1980/002 Burial 2 Sim 3	", 	695	,	55	)
+   {
+    latitude=	-29.01;
+    longitude=	30.41232;
+   };
+   R_Simulate	("	KwaGandaganda KZ1986/002*b Sim 2	", 	730	,	65	)
+   {
+    latitude=	-29.68;
+    longitude=	30.836208;
+   };
+   R_Simulate	("	Msuluzi KZ1977/030 '30' Sim 1	", 	730	,	50	)
+   {
+    latitude=	-28.76;
+    longitude=	30.145962;
+   };
+   R_Simulate	("	Msuluzi KZ1977/030 'D6' Sim 2	", 	730	,	50	)
+   {
+    latitude=	-28.76;
+    longitude=	30.145962;
+   };
+   R_Simulate	("	Magogo KZ1980/001 Sim 	", 	735	,	55	)
+   {
+    latitude=	-28.98;
+    longitude=	30.395621;
+   };
+   R_Simulate	("	Nanda KZ1986/001*a Sim 1	", 	805	,	75	)
+   {
+    latitude=	-29.67;
+    longitude=	30.855833;
+   };
+   R_Simulate	("	Nanda KZ1986/001*b Sim 1	", 	805	,	75	)
+   {
+    latitude=	-29.67;
+    longitude=	30.855833;
+   };
+   R_Simulate	("	Nanda KZ1986/001*c Sim 2	", 	805	,	75	)
+   {
+    latitude=	-29.67;
+    longitude=	30.855833;
+   };
+   R_Simulate	("	Nanda KZ1986/001*d Sim 3	", 	805	,	75	)
+   {
+    latitude=	-29.67;
+    longitude=	30.855833;
+   };
+   R_Simulate	("	Nanda KZ1986/001*e Sim 4	", 	805	,	75	)
+   {
+    latitude=	-29.67;
+    longitude=	30.855833;
+   };
+   R_Simulate	("	Kaybar's Cave A296 Sim	", 	1550	,	50	)
+   {
+    latitude=	-29.05;
+    longitude=	29.415215;
+   };
+   R_Simulate	("	KwaGandaganda KZ1986/002*a Sim 1	", 	730	,	65	)
+   {
+    latitude=	-29.68;
+    longitude=	30.836208;
+   };
+   R_Simulate	("	Clarens A4238 Sim1	", 	1235	,	30	)
+   {
+    latitude=	-28.58;
+    longitude=	28.427778;
+   };
+   R_Simulate	("	Clarens A4239 Sim2	", 	1235	,	30	)
+   {
+    latitude=	-28.58;
+    longitude=	28.427778;
+   };
+   R_Simulate	("	Clarens A4240 Sim3	", 	1235	,	30	)
+   {
+    latitude=	-28.58;
+    longitude=	28.427778;
+   };
+   R_Simulate	("	Clarens A4241 Sim4	", 	1235	,	30	)
+   {
+    latitude=	-28.58;
+    longitude=	28.427778;
+   };
+   R_Simulate	("	Clarens A4242 Sim5	", 	1235	,	30	)
+   {
+    latitude=	-28.58;
+    longitude=	28.427778;
+   };
+   R_Simulate	("	Clarens A4243 Sim6	", 	1235	,	30	)
+   {
+    latitude=	-28.58;
+    longitude=	28.427778;
+   };
+   R_Simulate	("	Clarens A4244 Sim7	", 	1235	,	30	)
+   {
+    latitude=	-28.58;
+    longitude=	28.427778;
+   };
+   R_Simulate	("	Clarens A4245 Sim8	", 	1235	,	30	)
+   {
+    latitude=	-28.58;
+    longitude=	28.427778;
+   };
+   R_Simulate	("	Clarens A4246 Sim9	", 	1235	,	30	)
+   {
+    latitude=	-28.58;
+    longitude=	28.427778;
+   };
+   R_Simulate	("	Clarens A4326 Sim10	", 	1235	,	30	)
+   {
+    latitude=	-28.58;
+    longitude=	28.427778;
+   };
+   R_Date	("	Eggo Cave UP17a Ua-63922	", 	237	,	27	)
+   {
+    latitude=	-24.56;
+    longitude=	30.60308;
+   };
+   R_Date	("	Thulamela UP43 Pta-7276a	", 	340	,	40	)
+   {
+    latitude=	-22.43;
+    longitude=	31.194444;
+   };
+   R_Date	("	Skukuza Rock Shelter UP29 Ua-61833	", 	377	,	35	)
+   {
+    latitude=	-24.82;
+    longitude=	29.379238;
+   };
+   R_Date	("	Thulamela UP44 Pta-7243	", 	520	,	40	)
+   {
+    latitude=	-22.43;
+    longitude=	31.194444;
+   };
+   R_Date	("	Nwanetsi UP130 Pta-7937	", 	580	,	45	)
+   {
+    latitude=	-24.46;
+    longitude=	31.977537;
+   };
+   R_Date	("	Ellerton Mine A414 Pta-4973 or 4937?	", 	600	,	50	)
+   {
+    latitude=	-23.32;
+    longitude=	30.533331;
+   };
+   R_Date	("	Kgopolwe UCT432 Pta-566	", 	680	,	45	)
+   {
+    latitude=	-23.93;
+    longitude=	31.129643;
+   };
+   R_Date	("	Mapungubwe A622a (M3) Pta-3480	", 	770	,	40	)
+   {
+    latitude=	-22.21;
+    longitude=	29.372671;
+   };
+   R_Date	("	Kon-Stayt UP77 Pta-4363	", 	820	,	50	)
+   {
+    latitude=	-22.60;
+    longitude=	29.366667;
+   };
+   R_Date	("	Hamilton UP138 Pta-016	", 	850	,	35	)
+   {
+    latitude=	-22.24;
+    longitude=	29.409861;
+   };
+   R_Date	("	Mapungubwe A621a (M2) Pta-3489	", 	850	,	40	)
+   {
+    latitude=	-22.21;
+    longitude=	29.372671;
+   };
+   R_Date	("	Map 26; UP145 Pta-8376	", 	900	,	20	)
+   {
+    latitude=	-22.21;
+    longitude=	29.372671;
+   };
+   R_Date	("	Zandspruit HLB3 Ua-59966	", 	1121	,	29	)
+   {
+    latitude=	-24.37;
+    longitude=	30.92655;
+   };
+   R_Date	("	Zandspruit HLB2 Ua-59965	", 	1159	,	33	)
+   {
+    latitude=	-24.37;
+    longitude=	30.92655;
+   };
+   R_Date	("	Zandspruit HLB4 Ua-59967	", 	1172	,	29	)
+   {
+    latitude=	-24.37;
+    longitude=	30.92655;
+   };
+   R_Date	("	Zandspruit HLB1 Ua-59964	", 	1253	,	32	)
+   {
+    latitude=	-24.37;
+    longitude=	30.92655;
+   };
+   R_Date	("	Happyrest UP1 Pta-2612	", 	1310	,	50	)
+   {
+    latitude=	-23.03;
+    longitude=	29.733333;
+   };
+   R_Date	("	Happyrest UP2 Ua-63920	", 	1444	,	32	)
+   {
+    latitude=	-23.03;
+    longitude=	29.733333;
+   };
+   R_Simulate	("	Kon-Stayt UP78 Sim 	", 	1245	,	40	)
+   {
+    latitude=	-22.60;
+    longitude=	29.366667;
+   };
+   R_Simulate	("	Pont Drift NASno# Sim	", 	960	,	50	)
+   {
+    latitude=	-22.23;
+    longitude=	29.166667;
+   };
+   R_Simulate	("	K1; UP25 Sim 1	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1702 Sim 2	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1703a Sim 3	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1703b Sim 4	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1703c Sim 5	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1705; KS4a(2) Sim 6	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1705; KS4b Sim 7	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1706; KS5c Sim 8	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1706; KS5d Sim 9	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1706; KS5e Sim 10	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1707a; KS6a Sim 11	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1707b; KS6b Sim 12	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1707c; KS6c Sim 13	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1708; KS7 Sim 14	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1710; KS9 Sim 15	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1711; KS10 Sim 16	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1712; KS11 Sim 17	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1713; KS12 Sim 18	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1714; KS13 Sim 19	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1715; KS14 Sim 20	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1715a; KS14a Sim 21	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1716; KS15 Sim 22	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1716a; KS15a Sim 23	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1717; KS16 Sim 24	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1718; KS17 Sim 25	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1719; KS18 Sim 26	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1720a; KS19a Sim 27	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1720b; KS19b Sim 28	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1721; KS20 Sim 29	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1722; KS21 Sim 30	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1723; KS22 Sim 31	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1724; KS23 Sim 32	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1725; KS24a Sim 33	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1725; KS24b Sim 34	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1726; KS25 Sim 35	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1727; KS26 Sim 36	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1728; KS27a Sim 37	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1728; KS27b Sim 38	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1729; KS28 Sim 39	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1730; KS29 Sim 40	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1731; KS30a Sim 41	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1731; KS30b Sim 42	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1732; KS31 Sim 43	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1733; KS32 Sim 44	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1734; KS33 Sim 45	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1735; KS34 Sim 46	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1736; KS35 Sim 47	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1737; KS36a Sim 48	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1737; KS36b Sim 49	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1737; KS36c Sim 50	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1738; KS37 Sim 51	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1739; KS38 Sim 52	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1740; KS39 Sim 53	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1741; KS40 Sim 54	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1742; KS41 Sim 55	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1743; KS42 Sim 56	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1744; KS43 Sim 57	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1745; KS44 Sim 58	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1746; KS45 Sim 59	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1747 ; KS46 Sim 60	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1748; KS47 Sim 61	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1749; KS48 Sim 62	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1750; KS49 Sim 63	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1751; KS51 Sim 64	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1752; KS52a Sim 65	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1752; KS52b Sim 66	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1753; KS53a Sim 67	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1753; KS53b Sim 68	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1754a; KS54 Sim 69	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1754b; KS55 Sim 70	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1754c; KS55 Sim 71	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1756; KS56 Sim 72	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1757; KS57 Sim 73	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1758; KS59 Sim 74	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1759; KS60 Sim 75	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1760; KS61 Sim 76	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1761; KS62 Sim 77	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1762; KS63 Sim 78	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1763; KS64 Sim 79	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1764; KS65 Sim 80	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1765; KS66 Sim 81	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1766; KS67a Sim 82	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1766; KS67b Sim 83	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1767; KS68 Sim 84	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1768; KS69 Sim 85	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1769; KS70a Sim 86	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2 A1769; KS70b Sim 87	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2; KS58 Sim 88	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2; no number Sim 89	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2; UP19 (TS 2.G2) Sim 90	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2; UP20 (TS 2.G3) Sim 91	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2; UP21 (TS 2/3.G2) Sim 92	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2; UP22 (TS 5.G1) Sim 93	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2; UP24 (TS 5/2.G1) Sim 94	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2; UP30 Sim 95	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2; UP31 Sim 96	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2; UP32 Sim 97	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2; UP82 Sim 98	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2; UP86 Sim 99	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2; UP93 Sim 100	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	K2A1705; KS4a(1) Sim 101	", 	1140	,	65	)
+   {
+    latitude=	-22.22;
+    longitude=	29.383333;
+   };
+   R_Simulate	("	Mapungubwe A619 (M5) Sim 1	", 	1215	,	75	)
+   {
+    latitude=	-22.21;
+    longitude=	29.372671;
+   };
+   R_Simulate	("	Mapungubwe A620 (M1) Sim 2	", 	1215	,	75	)
+   {
+    latitude=	-22.21;
+    longitude=	29.372671;
+   };
+   R_Simulate	("	Mapungubwe A621b Sim 3	", 	1215	,	75	)
+   {
+    latitude=	-22.21;
+    longitude=	29.372671;
+   };
+   R_Simulate	("	Mapungubwe A622b Sim 4	", 	1215	,	75	)
+   {
+    latitude=	-22.21;
+    longitude=	29.372671;
+   };
+   R_Simulate	("	Mapungubwe A622b (M4) Sim 5	", 	1215	,	75	)
+   {
+    latitude=	-22.21;
+    longitude=	29.372671;
+   };
+   R_Simulate	("	Mapungubwe A623 (M7) Sim 6	", 	1215	,	75	)
+   {
+    latitude=	-22.21;
+    longitude=	29.372671;
+   };
+   R_Simulate	("	Mapungubwe A624 (M8) Sim 7	", 	1215	,	75	)
+   {
+    latitude=	-22.21;
+    longitude=	29.372671;
+   };
+   R_Simulate	("	Mapungubwe A625 (M9) Sim 8	", 	1215	,	75	)
+   {
+    latitude=	-22.21;
+    longitude=	29.372671;
+   };
+   R_Simulate	("	Mapungubwe A626a (M10) Sim 9	", 	1215	,	75	)
+   {
+    latitude=	-22.21;
+    longitude=	29.372671;
+   };
+   R_Simulate	("	Mapungubwe A626b (M11) Sim 10	", 	1215	,	75	)
+   {
+    latitude=	-22.21;
+    longitude=	29.372671;
+   };
+   R_Simulate	("	Mapungubwe A632 Sim 11	", 	1215	,	75	)
+   {
+    latitude=	-22.21;
+    longitude=	29.372671;
+   };
+   R_Simulate	("	Mapungubwe Misc adult 1 Sim 12	", 	1215	,	75	)
+   {
+    latitude=	-22.21;
+    longitude=	29.372671;
+   };
+   R_Simulate	("	Mapungubwe Misc adult 2 Sim 13	", 	1215	,	75	)
+   {
+    latitude=	-22.21;
+    longitude=	29.372671;
+   };
+   R_Simulate	("	Mapungubwe Misc adult 3 Sim 14	", 	1215	,	75	)
+   {
+    latitude=	-22.21;
+    longitude=	29.372671;
+   };
+   R_Simulate	("	Mapungubwe Misc adult 4 Sim 15	", 	1215	,	75	)
+   {
+    latitude=	-22.21;
+    longitude=	29.372671;
+   };
+   R_Simulate	("	Mapungubwe Misc adult 5 Sim 16	", 	1215	,	75	)
+   {
+    latitude=	-22.21;
+    longitude=	29.372671;
+   };
+   R_Simulate	("	Mapungubwe Misc adult 6 Sim 17	", 	1215	,	75	)
+   {
+    latitude=	-22.21;
+    longitude=	29.372671;
+   };
+   R_Simulate	("	Mapungubwe Misc inf 1 Sim 18	", 	1215	,	75	)
+   {
+    latitude=	-22.21;
+    longitude=	29.372671;
+   };
+   R_Simulate	("	Mapungubwe Misc inf 2 Sim 19	", 	1215	,	75	)
+   {
+    latitude=	-22.21;
+    longitude=	29.372671;
+   };
+   R_Simulate	("	Mapungubwe Misc inf 3 Sim 20	", 	1215	,	75	)
+   {
+    latitude=	-22.21;
+    longitude=	29.372671;
+   };
+   R_Simulate	("	Mapungubwe Misc inf 4 Sim 21	", 	1215	,	75	)
+   {
+    latitude=	-22.21;
+    longitude=	29.372671;
+   };
+   R_Simulate	("	Mapungubwe Misc inf 5 Sim 22	", 	1215	,	75	)
+   {
+    latitude=	-22.21;
+    longitude=	29.372671;
+   };
+   R_Simulate	("	Mapungubwe Misc inf 6 Sim 23	", 	1215	,	75	)
+   {
+    latitude=	-22.21;
+    longitude=	29.372671;
+   };
+   R_Simulate	("	Mapungubwe Misc inf 7 Sim 24	", 	1215	,	75	)
+   {
+    latitude=	-22.21;
+    longitude=	29.372671;
+   };
+   R_Simulate	("	Mapungubwe Misc inf 8 Sim 25	", 	1215	,	75	)
+   {
+    latitude=	-22.21;
+    longitude=	29.372671;
+   };
+   R_Simulate	("	Mapungubwe Misc inf 9 Sim 26	", 	1215	,	75	)
+   {
+    latitude=	-22.21;
+    longitude=	29.372671;
+   };
+   R_Simulate	("	Imbali UP210 Sim	", 	1535	,	55	)
+   {
+    latitude=	-24.60;
+    longitude=	31.618842;
+   };
+   R_Simulate	("	Schroda NAS2AA.3(i).1 Sim 1	", 	1000	,	70	)
+   {
+    latitude=	-22.18;
+    longitude=	29.433333;
+   };
+   R_Simulate	("	Schroda NAS2AA.3(i).3 Sim 2	", 	1000	,	70	)
+   {
+    latitude=	-22.18;
+    longitude=	29.433333;
+   };
+   R_Simulate	("	Schroda NAS2B5.2 Sim 3	", 	1000	,	70	)
+   {
+    latitude=	-22.18;
+    longitude=	29.433333;
+   };
+   R_Simulate	("	Schroda NAS6/1AA/4 Sim 4	", 	1000	,	70	)
+   {
+    latitude=	-22.18;
+    longitude=	29.433333;
+   };
+   R_Simulate	("	Schroda NAS6/2B/4.1(a) Sim 5	", 	1000	,	70	)
+   {
+    latitude=	-22.18;
+    longitude=	29.433333;
+   };
+   R_Simulate	("	Schroda NAS6/2B/4.1(b) Sim 6	", 	1000	,	70	)
+   {
+    latitude=	-22.18;
+    longitude=	29.433333;
+   };
+   R_Simulate	("	Schroda NAS6/2E/4.1 Sim 7	", 	1000	,	70	)
+   {
+    latitude=	-22.18;
+    longitude=	29.433333;
+   };
+   R_Simulate	("	Schroda NAS6/3AA/5.1(a) Sim 8	", 	1000	,	70	)
+   {
+    latitude=	-22.18;
+    longitude=	29.433333;
+   };
+   R_Simulate	("	Schroda NAS6/3AA/5.1(b) Sim 9	", 	1000	,	70	)
+   {
+    latitude=	-22.18;
+    longitude=	29.433333;
+   };
+   R_Simulate	("	Schroda NAS6/3AA/5.1(c) Sim 10	", 	1000	,	70	)
+   {
+    latitude=	-22.18;
+    longitude=	29.433333;
+   };
+   R_Simulate	("	Schroda NAS6/4F/4.1(a) Sim 11	", 	1000	,	70	)
+   {
+    latitude=	-22.18;
+    longitude=	29.433333;
+   };
+   R_Simulate	("	Schroda NAS6/4F/4.1(b) Sim 12	", 	1000	,	70	)
+   {
+    latitude=	-22.18;
+    longitude=	29.433333;
+   };
+   R_Simulate	("	Schroda NAS6/5D/6.1 Sim 13	", 	1000	,	70	)
+   {
+    latitude=	-22.18;
+    longitude=	29.433333;
+   };
+   R_Simulate	("	Schroda NAS6/5E/3 Sim 14	", 	1000	,	70	)
+   {
+    latitude=	-22.18;
+    longitude=	29.433333;
+   };
+   R_Simulate	("	Schroda NAS6/5E/4.1 Sim 15	", 	1000	,	70	)
+   {
+    latitude=	-22.18;
+    longitude=	29.433333;
+   };
+   R_Simulate	("	Schroda NAS6/5E/5(a) Sim 16	", 	1000	,	70	)
+   {
+    latitude=	-22.18;
+    longitude=	29.433333;
+   };
+   R_Simulate	("	Schroda NAS6/5E/5(b) Sim 17	", 	1000	,	70	)
+   {
+    latitude=	-22.18;
+    longitude=	29.433333;
+   };
+   R_Simulate	("	Schroda NAS6/5E/5(c) Sim 18	", 	1000	,	70	)
+   {
+    latitude=	-22.18;
+    longitude=	29.433333;
+   };
+   R_Simulate	("	Schroda NAS6/A2.2.1 Sim 19	", 	1000	,	70	)
+   {
+    latitude=	-22.18;
+    longitude=	29.433333;
+   };
+   R_Simulate	("	Schroda NAS6/B5/1.2 Sim 20	", 	1000	,	70	)
+   {
+    latitude=	-22.18;
+    longitude=	29.433333;
+   };
+   R_Simulate	("	Schroda NAS6/B5/4.1.1 Sim 21	", 	1000	,	70	)
+   {
+    latitude=	-22.18;
+    longitude=	29.433333;
+   };
+   R_Simulate	("	Schroda NAS6/B5/4.1.4 Sim 22	", 	1000	,	70	)
+   {
+    latitude=	-22.18;
+    longitude=	29.433333;
+   };
+   R_Simulate	("	Schroda NAS6/B5/5.1 Sim 23	", 	1000	,	70	)
+   {
+    latitude=	-22.18;
+    longitude=	29.433333;
+   };
+   R_Simulate	("	Schroda NAS6/B5/5.2 Sim 24	", 	1000	,	70	)
+   {
+    latitude=	-22.18;
+    longitude=	29.433333;
+   };
+   R_Simulate	("	Schroda NASB1.4.1 Sim 25	", 	1000	,	70	)
+   {
+    latitude=	-22.18;
+    longitude=	29.433333;
+   };
+   R_Simulate	("	Skutwater NAS?a Sim1	", 	1245	,	25	)
+   {
+    latitude=	-22.19;
+    longitude=	29.543148;
+   };
+   R_Simulate	("	Skutwater NAS?b Sim2	", 	1245	,	25	)
+   {
+    latitude=	-22.19;
+    longitude=	29.543148;
+   };
+   R_Simulate	("	Skutwater NAS27 Sim3	", 	1245	,	25	)
+   {
+    latitude=	-22.19;
+    longitude=	29.543148;
+   };
+   R_Simulate	("	Skutwater NAS28 Sim4	", 	1245	,	25	)
+   {
+    latitude=	-22.19;
+    longitude=	29.543148;
+   };
+   R_Simulate	("	Skutwater NAS29 Sim5	", 	1245	,	25	)
+   {
+    latitude=	-22.19;
+    longitude=	29.543148;
+   };
+   R_Simulate	("	Skutwater NAS30 Sim6	", 	1245	,	25	)
+   {
+    latitude=	-22.19;
+    longitude=	29.543148;
+   };
+   R_Simulate	("	Skutwater NAS31 Sim7	", 	1245	,	25	)
+   {
+    latitude=	-22.19;
+    longitude=	29.543148;
+   };
+   R_Simulate	("	Ellerton Mine A415 Sim	", 	1380	,	40	)
+   {
+    latitude=	-23.32;
+    longitude=	30.533331;
+   };
+   R_Date	("	Pilanesberg UP95 Pta-8029	", 	160	,	40	)
+   {
+    latitude=	-25.19;
+    longitude=	27.143382;
+   };
+   R_Date	("	Wellington Estate A2235 Pta-4982	", 	160	,	50	)
+   {
+    latitude=	-24.90;
+    longitude=	28.483208;
+   };
+   R_Date	("	Makgope UP48 Pta-7380	", 	170	,	50	)
+   {
+    latitude=	-25.54;
+    longitude=	27.441601;
+   };
+   R_Date	("	Willow Glen UP72 Pta-7369	", 	180	,	45	)
+   {
+    latitude=	-25.80;
+    longitude=	28.295279;
+   };
+   R_Date	("	Buispoort NMB1571 Pta-5229	", 	200	,	45	)
+   {
+    latitude=	-25.28;
+    longitude=	25.95;
+   };
+   R_Date	("	Makgope UP49 Pta-7379	", 	200	,	45	)
+   {
+    latitude=	-25.54;
+    longitude=	27.441601;
+   };
+   R_Date	("	Kimberley MMK288 Pta-3094	", 	210	,	45	)
+   {
+    latitude=	-28.74;
+    longitude=	24.757558;
+   };
+   R_Date	("	Hoekfontein HKF7 Pta-8858	", 	240	,	50	)
+   {
+    latitude=	-25.60;
+    longitude=	27.947511;
+   };
+   R_Date	("	Welgegund UP12 Pta-548	", 	240	,	50	)
+   {
+    latitude=	-25.78;
+    longitude=	27.897437;
+   };
+   R_Date	("	Cyferkuil UP80 Pta-7612	", 	250	,	50	)
+   {
+    latitude=	-25.07;
+    longitude=	28.242532;
+   };
+   R_Date	("	Krugerskraal A312 Pta-4978	", 	260	,	45	)
+   {
+    latitude=	-27.32;
+    longitude=	28.005316;
+   };
+   R_Date	("	Modimolle UP92 Pta-7795	", 	280	,	35	)
+   {
+    latitude=	-24.70;
+    longitude=	28.40215;
+   };
+   R_Date	("	Pilanesberg UP143 Pta-8944	", 	300	,	35	)
+   {
+    latitude=	-25.19;
+    longitude=	27.143382;
+   };
+   R_Date	("	Rooiberg UP7 Pta-5894	", 	300	,	60	)
+   {
+    latitude=	-24.68;
+    longitude=	27.744762;
+   };
+   R_Date	("	Welgegund NAS25 Pta-1316	", 	350	,	40	)
+   {
+    latitude=	-25.78;
+    longitude=	27.897437;
+   };
+   R_Date	("	Paardekraal A2802 Oxa-V-2161-55	", 	370	,	50	)
+   {
+    latitude=	-25.62;
+    longitude=	27.30046;
+   };
+   R_Date	("	Thabazimbi UP132 Pta-7848	", 	370	,	70	)
+   {
+    latitude=	-24.59;
+    longitude=	27.40175;
+   };
+   R_Date	("	Magozastad UNISA Pta-7276b 	", 	375	,	20	)
+   {
+    latitude=	-25.55;
+    longitude=	26.281692;
+   };
+   R_Date	("	Eersteling A410 Pta-5224	", 	380	,	30	)
+   {
+    latitude=	-24.12;
+    longitude=	29.328316;
+   };
+   R_Date	("	Hoekfontein HKF9 Pta-8864	", 	390	,	50	)
+   {
+    latitude=	-25.60;
+    longitude=	27.947511;
+   };
+   R_Date	("	Wellington Estate A2233 Pta-4981	", 	400	,	40	)
+   {
+    latitude=	-24.90;
+    longitude=	28.483208;
+   };
+   R_Date	("	Plovers Lake PV12780 Beta-476776	", 	420	,	30	)
+   {
+    latitude=	-25.98;
+    longitude=	27.778232;
+   };
+   R_Date	("	Wellington Estate A1104 Pta-4989	", 	420	,	45	)
+   {
+    latitude=	-24.90;
+    longitude=	28.483208;
+   };
+   R_Date	("	Makapanstad UP Pta-9799	", 	450	,	50	)
+   {
+    latitude=	-25.24;
+    longitude=	28.135815;
+   };
+   R_Date	("	Pilanesberg UP139 Pta-08659	", 	460	,	50	)
+   {
+    latitude=	-25.19;
+    longitude=	27.143382;
+   };
+   R_Date	("	Schuinsdraai UP47 Ua-61969	", 	462	,	33	)
+   {
+    latitude=	-24.82;
+    longitude=	29.379238;
+   };
+   R_Date	("	Plovers Lake PV14000A/B Beta-476777	", 	480	,	30	)
+   {
+    latitude=	-25.98;
+    longitude=	27.778232;
+   };
+   R_Date	("	Schuinsdraai UP32 Ua-61828	", 	510	,	33	)
+   {
+    latitude=	-24.82;
+    longitude=	29.379238;
+   };
+   R_Date	("	Pilanesberg UP147 Pta-9304	", 	620	,	40	)
+   {
+    latitude=	-25.22;
+    longitude=	27.195883;
+   };
+   R_Date	("	Pilanesberg UP152 Pta-9475	", 	670	,	50	)
+   {
+    latitude=	-25.22;
+    longitude=	27.195883;
+   };
+   R_Date	("	Pilanesberg UP51 Pta-7331	", 	890	,	50	)
+   {
+    latitude=	-25.27;
+    longitude=	27.120969;
+   };
+   R_Date	("	Heilbron A233 Pta-5218	", 	1000	,	60	)
+   {
+    latitude=	-27.29;
+    longitude=	27.984967;
+   };
+   R_Simulate	("	Pilanesberg UP148 Sim1	", 	1355	,	35	)
+   {
+    latitude=	-25.22;
+    longitude=	27.195883;
+   };
+   R_Simulate	("	Pilanesberg UP149 Sim2	", 	1355	,	35	)
+   {
+    latitude=	-25.22;
+    longitude=	27.195883;
+   };
+   R_Simulate	("	Pilanesberg UP150 Sim3	", 	1355	,	35	)
+   {
+    latitude=	-25.22;
+    longitude=	27.195883;
+   };
+   R_Simulate	("	Pilanesberg UP151 Sim4	", 	1355	,	35	)
+   {
+    latitude=	-25.22;
+    longitude=	27.195883;
+   };
+   R_Simulate	("	Pilanesberg UP153 Sim5	", 	1355	,	35	)
+   {
+    latitude=	-25.22;
+    longitude=	27.195883;
+   };
+   R_Simulate	("	Pilanesberg UP154 Sim6	", 	1355	,	35	)
+   {
+    latitude=	-25.22;
+    longitude=	27.195883;
+   };
+   R_Simulate	("	Pilanesberg UP155 Sim7	", 	1355	,	35	)
+   {
+    latitude=	-25.22;
+    longitude=	27.195883;
+   };
+   R_Simulate	("	Schuinsdraai UP45 Sim1	", 	1450	,	30	)
+   {
+    latitude=	-24.82;
+    longitude=	29.379238;
+   };
+   R_Simulate	("	Schuinsdraai UP46 Sim2	", 	1450	,	30	)
+   {
+    latitude=	-24.82;
+    longitude=	29.379238;
+   };
+   R_Simulate	("	Thabazimbi UP131 Sim	", 	1565	,	75	)
+   {
+    latitude=	-24.59;
+    longitude=	27.40175;
+   };
+   R_Simulate	("	Cyferkuil UP94 Sim 	", 	1725	,	90	)
+   {
+    latitude=	-25.07;
+    longitude=	28.242532;
+   };
+   R_Simulate	("	Willow Glen UP71 Sim	", 	1800	,	85	)
+   {
+    latitude=	-25.80;
+    longitude=	28.295279;
+   };
+   R_Simulate	("	Broederstroom A4143 Sim1	", 	600	,	30	)
+   {
+    latitude=	-25.77;
+    longitude=	27.835429;
+   };
+   R_Simulate	("	Broederstroom A4144a Sim2	", 	600	,	30	)
+   {
+    latitude=	-25.77;
+    longitude=	27.835429;
+   };
+   R_Simulate	("	Broederstroom A4144b Sim3	", 	600	,	30	)
+   {
+    latitude=	-25.77;
+    longitude=	27.835429;
+   };
+   R_Simulate	("	Broederstroom burial 10 Sim4	", 	600	,	30	)
+   {
+    latitude=	-25.77;
+    longitude=	27.835429;
+   };
+   R_Simulate	("	Broederstroom burial 2 Sim5	", 	600	,	30	)
+   {
+    latitude=	-25.77;
+    longitude=	27.835429;
+   };
+   R_Simulate	("	Broederstroom burial 7 Sim6	", 	600	,	30	)
+   {
+    latitude=	-25.77;
+    longitude=	27.835429;
+   };
+   R_Simulate	("	Broederstroom burial 8 Sim7	", 	600	,	30	)
+   {
+    latitude=	-25.77;
+    longitude=	27.835429;
+   };
+   R_Simulate	("	Broederstroom burial 9 Sim8	", 	600	,	30	)
+   {
+    latitude=	-25.77;
+    longitude=	27.835429;
+   };
+   R_Simulate	("	Broederstroom WA30 Sim9	", 	600	,	30	)
+   {
+    latitude=	-25.77;
+    longitude=	27.835429;
+   };
+   R_Simulate	("	Broederstroom WA31b Sim10	", 	600	,	30	)
+   {
+    latitude=	-25.77;
+    longitude=	27.835429;
+   };
+   R_Simulate	("	Buispoort NMB1590 Sim1	", 	1785	,	80	)
+   {
+    latitude=	-25.28;
+    longitude=	25.95;
+   };
+   R_Simulate	("	Buispoort NMB1591 Sim2	", 	1785	,	80	)
+   {
+    latitude=	-25.28;
+    longitude=	25.95;
+   };
+   R_Simulate	("	Buispoort NMB1592 Sim3	", 	1785	,	80	)
+   {
+    latitude=	-25.28;
+    longitude=	25.95;
+   };
+   R_Simulate	("	Buispoort NMB1593 Sim4	", 	1785	,	80	)
+   {
+    latitude=	-25.28;
+    longitude=	25.95;
+   };
+   R_Simulate	("	Diamant UNISA1 Sim 1	", 	760	,	65	)
+   {
+    latitude=	-24.12;
+    longitude=	27.551588;
+   };
+   R_Simulate	("	Diamant UNISA2 Sim 2	", 	760	,	65	)
+   {
+    latitude=	-24.12;
+    longitude=	27.551588;
+   };
+   R_Simulate	("	Diamant UNISA3 Sim 3	", 	760	,	65	)
+   {
+    latitude=	-24.12;
+    longitude=	27.551588;
+   };
+   R_Simulate	("	Eersteling A410b Sim1	", 	1550	,	50	)
+   {
+    latitude=	-24.12;
+    longitude=	29.328316;
+   };
+   R_Simulate	("	Eersteling A410c Sim2	", 	1550	,	50	)
+   {
+    latitude=	-24.12;
+    longitude=	29.328316;
+   };
+   R_Simulate	("	Eersteling A410d Sim3	", 	1550	,	50	)
+   {
+    latitude=	-24.12;
+    longitude=	29.328316;
+   };
+   R_Simulate	("	Eersteling A410e Sim4	", 	1550	,	50	)
+   {
+    latitude=	-24.12;
+    longitude=	29.328316;
+   };
+   R_Simulate	("	Welgegund NAS26 Sim	", 	1600	,	80	)
+   {
+    latitude=	-25.78;
+    longitude=	27.897437;
+   };
+   R_Simulate	("	Wellington Estate A1103 Sim1	", 	1625	,	130	)
+   {
+    latitude=	-24.90;
+    longitude=	28.483208;
+   };
+   R_Simulate	("	Wellington Estate A1836 Sim2	", 	1625	,	130	)
+   {
+    latitude=	-24.90;
+    longitude=	28.483208;
+   };
+   R_Simulate	("	Wellington Estate A1837 Sim3	", 	1625	,	130	)
+   {
+    latitude=	-24.90;
+    longitude=	28.483208;
+   };
+   R_Simulate	("	Wellington Estate A1838 Sim4	", 	1625	,	130	)
+   {
+    latitude=	-24.90;
+    longitude=	28.483208;
+   };
+   R_Simulate	("	Wellington Estate A2229 Sim5	", 	1625	,	130	)
+   {
+    latitude=	-24.90;
+    longitude=	28.483208;
+   };
+   R_Simulate	("	Wellington Estate A2230 Sim6	", 	1625	,	130	)
+   {
+    latitude=	-24.90;
+    longitude=	28.483208;
+   };
+   R_Simulate	("	Wellington Estate A2231 Sim7	", 	1625	,	130	)
+   {
+    latitude=	-24.90;
+    longitude=	28.483208;
+   };
+   R_Simulate	("	Wellington Estate A2232 Sim8	", 	1625	,	130	)
+   {
+    latitude=	-24.90;
+    longitude=	28.483208;
+   };
+   R_Simulate	("	Wellington Estate A2234 Sim9	", 	1625	,	130	)
+   {
+    latitude=	-24.90;
+    longitude=	28.483208;
+   };
+   R_Simulate	("	Wellington Estate A2236 Sim10	", 	1625	,	130	)
+   {
+    latitude=	-24.90;
+    longitude=	28.483208;
+   };
+   R_Simulate	("	Wellington Estate A2238 Sim11	", 	1625	,	130	)
+   {
+    latitude=	-24.90;
+    longitude=	28.483208;
+   };
+   R_Simulate	("	Wellington Estate A2239 Sim12	", 	1625	,	130	)
+   {
+    latitude=	-24.90;
+    longitude=	28.483208;
+   };
+   R_Simulate	("	Wellington Estate A2240 Sim13	", 	1625	,	130	)
+   {
+    latitude=	-24.90;
+    longitude=	28.483208;
+   };
+   R_Simulate	("	Wellington Estate A2241 Sim14	", 	1625	,	130	)
+   {
+    latitude=	-24.90;
+    longitude=	28.483208;
+   };
+   R_Simulate	("	Wellington Estate A2242 Sim15	", 	1625	,	130	)
+   {
+    latitude=	-24.90;
+    longitude=	28.483208;
+   };
+   R_Simulate	("	Rooikrans A4226 Sim 1	", 	1665	,	100	)
+   {
+    latitude=	-24.80;
+    longitude=	27.562127;
+   };
+   R_Simulate	("	Rooikrans A4227 Sim 2	", 	1665	,	100	)
+   {
+    latitude=	-24.80;
+    longitude=	27.562127;
+   };
+   R_Simulate	("	Rooikrans A4230 Sim 3	", 	1665	,	100	)
+   {
+    latitude=	-24.80;
+    longitude=	27.562127;
+   };
+   R_Simulate	("	Oliphantspoort A2852 Sim 1	", 	1690	,	125	)
+   {
+    latitude=	-25.87;
+    longitude=	27.33;
+   };
+   R_Simulate	("	Oliphantspoort A2853/2854 Sim 2	", 	1690	,	125	)
+   {
+    latitude=	-25.87;
+    longitude=	27.33;
+   };
+   R_Simulate	("	Oliphantspoort A2857 Sim 3	", 	1690	,	125	)
+   {
+    latitude=	-25.87;
+    longitude=	27.33;
+   };
+   R_Simulate	("	Oliphantspoort A4221 Sim 4	", 	1690	,	125	)
+   {
+    latitude=	-25.87;
+    longitude=	27.33;
+   };
+   R_Simulate	("	Oliphantspoort Burial 4 Sim 5	", 	1690	,	125	)
+   {
+    latitude=	-25.87;
+    longitude=	27.33;
+   };
+   R_Simulate	("	Buispoort NMB1594 Sim5	", 	1785	,	80	)
+   {
+    latitude=	-25.28;
+    longitude=	25.95;
+   };
+   R_Simulate	("	Lindley UCT326 Sim 1	", 	1830	,	80	)
+   {
+    latitude=	-27.91;
+    longitude=	27.938651;
+   };
+   R_Simulate	("	Lindley UCT327 Sim 2	", 	1830	,	80	)
+   {
+    latitude=	-27.91;
+    longitude=	27.938651;
+   };
+   R_Simulate	("	Lindley UCT328 Sim 3	", 	1830	,	80	)
+   {
+    latitude=	-27.91;
+    longitude=	27.938651;
+   };
+  };
+ };
